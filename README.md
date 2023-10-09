@@ -3,13 +3,13 @@
 <h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [Practice DSA](https://github.com/justinntaylorrr/Data-Structures-Algorithms-Practice)
+  - [Click here for Practice DSA!](https://github.com/justinntaylorrr/Data-Structures-Algorithms-Practice)
 - <b>C++ Projects</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Click here for Projects!](https://github.com/justinntaylorrr/Python-Projects)
 
 <h2>Connect with me:</h2>
 
