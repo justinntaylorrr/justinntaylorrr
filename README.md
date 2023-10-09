@@ -1,6 +1,6 @@
 <h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/justin-taylor-27638228a">BSc Computer Science Student</a> and an <a href="https://github.com/justinntaylorrr">Aspiring Software Engineer.</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
