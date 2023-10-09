@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/justin-taylor-27638228a">BSc Computer Science Student</a> and an <a href="https://github.com/justinntaylorrr">Aspiring Software Engineer.</a></h1>
+<h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/justin-taylor-27638228a">BSc Computer Science Student</a> and <a href="https://github.com/justinntaylorrr">Aspiring Software Engineer.</a></h1>
 
 <h2>👨‍💻 Programming Projects:</h2>
 
