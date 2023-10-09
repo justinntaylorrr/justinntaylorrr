@@ -5,9 +5,7 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [Click here for Practice DSA!](https://github.com/justinntaylorrr/Data-Structures-Algorithms-Practice)
 - <b>C++ Projects</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Click here for C++ Projects!](https://github.com/justinntaylorrr/C-Projects)
 - <b>Python Projects</b>
   - [Click here for Projects!](https://github.com/justinntaylorrr/Python-Projects)
 
